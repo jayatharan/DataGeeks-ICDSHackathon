@@ -1,7 +1,7 @@
 # Team Data Geeks
 
 ## Team Members:
-K.Sutharsan \n
-I.Jayatharan \n
-S.Piramilan \n
+K.Sutharsan <br>
+I.Jayatharan <br>
+S.Piramilan <br>
 Y.Dilaxiha
